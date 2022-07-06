@@ -16,6 +16,7 @@ author: Valentina Agapova
 date: 2022-07-06T18:40:40.663Z
 tags:
   - created
+  - Istanbul
 ---
 Located on 63 islands, Singapore is known not only as a major financial and business center in Southeast Asia but also as a real garden city — there are [300 parks](http://getexperience.com/experiences/326?utm_source=blog_gexp&utm_medium=article&utm_campaign=valentina&utm_content=best_time_to_visit_singapore) and four national reserves in Singapore. Beach traveling here is also great, but it is not in the first place. The most famous beach club hotels are located on Sentosa Island, and fans of seclusion and beautiful views can visit small nearby islands. They have wild beaches, rare tropical animals, and even a kind of travel through time: there you can see what Singapore [looked like as a fishing village](http://getexperience.com/experiences/432?utm_source=blog_gexp&utm_medium=article&utm_campaign=valentina&utm_content=best_time_to_visit_singapore).
 
