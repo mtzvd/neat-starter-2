@@ -19,12 +19,13 @@ collections:
     editor:
       preview: false
     fields:
+      - { label: "Keywords", name: "keywords", widget: "string" }
+      - { label: "Permalink", name: "permalink", widget: "string" }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Author", name: "author", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Keywords", name: "keywords", widget: "string" }
       - widget: select
         label: "tags"
         name: "tags"
